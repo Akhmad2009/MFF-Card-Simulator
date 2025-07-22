@@ -38,6 +38,6 @@ for (let i = 0; i < 5; i++) {
     }
     console.log(cardDetails);
     localStorage.setItem("detailed card", JSON.stringify(cardDetails));
-    window.location.href = 'http://127.0.0.1:5500/game/cards-details.html'
+    window.location.href = 'https://akhmad2009.github.io/MFF-Card-Simulator/index.html'
   });
 }
